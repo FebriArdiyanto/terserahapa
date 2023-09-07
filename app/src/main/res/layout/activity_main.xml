@@ -43,7 +43,7 @@
         android:id="@+id/send"
         android:layout_width="122dp"
         android:layout_height="69dp"
-        android:layout_gravity="center"
+        android:layout_gravity="right"
         android:text="send"/>
 
 
