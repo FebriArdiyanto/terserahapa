@@ -1,3 +1,28 @@
 <resources>
+
     <string name="app_name">Coba2</string>
+    <string-array name="negara">
+        <item>Indonesia</item>
+        <item>Brazil</item>
+        <item>USA</item>
+        <item>Singapura</item>
+        <item>Malaysia</item>
+        <item>Afgaistan</item>
+        <item>Arab</item>
+        <item>Papua</item>
+        <item>Swiss</item>
+        <item>Argentina</item>
+        <item>Paris</item>
+        <item>Korea</item>
+        <item>Jepang</item>
+        <item>China</item>
+        <item>Korut</item>
+        <item>England</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
